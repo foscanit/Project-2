@@ -67,7 +67,8 @@ I created another function to standardize the authors' birthplaces, in order to 
 
 In this first inquiry, I received conclusive results, Fantasy and Science Fiction is the most popular genre among novels (there are novels in this dataset that are labelled with both categories). In second and third place, we have Historical novels and Thrillers. Fantasy and Science Fiction novels are not only the most rated books among fiction titles but also the ones that have higher average ratings in Goodreads.
 
-![image1](https://github.com/foscanit/project-I/blob/main/images/sex_percentage.png?raw=true)
+![image1](https://github.com/foscanit/Project-2/blob/main/images/novel_genres.png)
+![image2](https://github.com/foscanit/Project-2/blob/main/images/genres_ratings.png) 
 
 
 
@@ -79,7 +80,8 @@ If we take a look to the second image, where we relate the genres with the avera
 
 <br>
 
-![image2](https://github.com/foscanit/project-I/blob/main/images/sex_and_age.png?raw=true)
+![image3](https://github.com/foscanit/project-I/blob/main/images/sex_and_age.png?raw=true)
+![image4](https://github.com/foscanit/Project-2/blob/main/images/genres_ratings.png)
 
 
 
@@ -96,28 +98,26 @@ And let's not forget the witches's trials in Salem (Massachusets) and its connec
 
 In addition, I have found out that Pennsylvania is the state where more horror movies have been filmed, probably due to its mysterious landscapes: https://delawarevalleyjournal.com/horror-movie-mecca-pennsylvania-is-the-deadliest-state/
 
-![image3](https://github.com/foscanit/project-I/blob/main/images/countries.png?raw=true)
-
-
-![image4](https://github.com/foscanit/project-I/blob/main/images/areas.png?raw=true)
-
+![image5](https://github.com/foscanit/Project-2/blob/main/images/regions_countries.png) 
 
 
 # The most popular horror authors are really old or dead. 
 
 The plot shows us that the average birthyear of the most popular authors is 1945... so yeah, maybe not dead yet but old. 
 
-![image5](https://github.com/foscanit/project-I/blob/main/images/activities.png?raw=true)
+![image6](https://github.com/foscanit/Project-2/blob/main/images/ages.png)
 
 
 # Among the popular horror authors, there are more men than women. 
 
 This is (purtroppo) a definitely true hypothesis, among the most popular authors, 105 are male and only 34 female. 
 
+![image7](https://github.com/foscanit/Project-2/blob/main/images/male_female.png)
 
 
 
 # In Conclusion
+
 - Fantasy and Science Fiction is the most rated genre in Goodreads and apparently also the most popular type of novel.
 - Long novels aren't the most popular ones. On the other hand, the most rated novels are between 200 and 500 pages, being 200 pages not considered a long novel (at least if you ask regular readers). 
 - US is the country where Halloween is most celebrated, specially in some specific states, so it makes sense that the most popular horror authors are American.
