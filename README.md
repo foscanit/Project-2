@@ -80,8 +80,8 @@ If we take a look to the second image, where we relate the genres with the avera
 
 <br>
 
-![image3](https://github.com/foscanit/project-I/blob/main/images/sex_and_age.png?raw=true)
-![image4](https://github.com/foscanit/Project-2/blob/main/images/genres_ratings.png)
+![image3](https://github.com/foscanit/Project-2/blob/main/images/ratings_pages.png)
+![image4](https://github.com/foscanit/Project-2/blob/main/images/pages_genres.png)
 
 
 
